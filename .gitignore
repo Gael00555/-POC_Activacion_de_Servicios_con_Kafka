@@ -17,3 +17,5 @@ npm-debug.log*
 .idea
 .DS_Store
 *.local
+# Artefactos de compilación
+*.tsbuildinfo
